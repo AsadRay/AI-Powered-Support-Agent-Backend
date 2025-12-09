@@ -43,5 +43,7 @@
 ## ⚠️ Disclaimer
 
 > 🧪 **This project is for personal experimentation, learning, and demonstration purposes only.**  
-> All contexts, services, and workflows are fictional and not connected to any real organization.
-
+> All contexts, services, and workflows are fictional and not connected to any real organization.  
+> Any references to "InterCloud" or similar service categories are **purely illustrative**, inspired only by  
+> publicly available information about cloud services, telephony systems, e-commerce platforms, and general IT solutions.  
+> No private, internal, or confidential data has been used in this project.
